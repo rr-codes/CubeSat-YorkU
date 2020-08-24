@@ -22,12 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fa47204-78b5-4443-af26-55b05b563d50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/the-project.html" afterDir="false" />
+    <list default="true" id="7fa47204-78b5-4443-af26-55b05b563d50" name="Default Changelist" comment="finished landing page">
+      <change afterPath="$PROJECT_DIR$/img/cubesat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stages.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/sticky-footer-navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sticky-footer-navbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the-project.html" beforeDir="false" afterPath="$PROJECT_DIR$/the-project.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -65,6 +65,9 @@
     <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
@@ -89,7 +92,16 @@
       <workItem from="1598213548866" duration="856000" />
       <workItem from="1598220045040" duration="2809000" />
       <workItem from="1598224767728" duration="3128000" />
+      <workItem from="1598233222195" duration="2933000" />
     </task>
+    <task id="LOCAL-00001" summary="finished landing page">
+      <created>1598233292332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598233292332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +117,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished landing page" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished landing page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="721" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598209809527">
@@ -203,5 +220,9 @@
       <screen x="0" y="25" width="1792" height="1014" />
     </state>
     <state x="563" y="166" key="SettingsEditor/0.25.1792.1014@0.25.1792.1014" timestamp="1598209760867" />
+    <state x="787" y="267" key="Vcs.Push.Dialog.v2" timestamp="1598233294711">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="787" y="267" key="Vcs.Push.Dialog.v2/0.25.1792.1010@0.25.1792.1010" timestamp="1598233294711" />
   </component>
 </project>
