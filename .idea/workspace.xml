@@ -22,10 +22,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fa47204-78b5-4443-af26-55b05b563d50" name="Default Changelist" comment="finished landing page">
-      <change afterPath="$PROJECT_DIR$/img/cubesat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/stages.png" afterDir="false" />
+    <list default="true" id="7fa47204-78b5-4443-af26-55b05b563d50" name="Default Changelist" comment="finished &quot;the project&quot; page">
+      <change afterPath="$PROJECT_DIR$/img/Communications.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Electrical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Mechanical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Newland.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/NorthenCanada2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Ruiter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Software.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Systems.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Zhu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/manager.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/satellite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the-team.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/sticky-footer-navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sticky-footer-navbar.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/the-project.html" beforeDir="false" afterPath="$PROJECT_DIR$/the-project.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +105,7 @@
       <workItem from="1598213548866" duration="856000" />
       <workItem from="1598220045040" duration="2809000" />
       <workItem from="1598224767728" duration="3128000" />
-      <workItem from="1598233222195" duration="2933000" />
+      <workItem from="1598233222195" duration="5813000" />
     </task>
     <task id="LOCAL-00001" summary="finished landing page">
       <created>1598233292332</created>
@@ -101,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598233292332</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finished &quot;the project&quot; page">
+      <created>1598236703588</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598236703588</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,13 +141,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished landing page" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished landing page" />
+    <MESSAGE value="finished &quot;the project&quot; page" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished &quot;the project&quot; page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="721" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598209809527">
       <screen x="0" y="25" width="1792" height="1014" />
     </state>
     <state x="721" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1014@0.25.1792.1014" timestamp="1598209809527" />
+    <state x="1028" y="336" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598239267442">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="1028" y="336" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1792.1010@0.25.1792.1010" timestamp="1598239267442" />
     <state x="928" y="431" width="483" height="228" key="Github.ShareDialog" timestamp="1598207460545">
       <screen x="0" y="25" width="1792" height="1012" />
     </state>
@@ -220,9 +245,9 @@
       <screen x="0" y="25" width="1792" height="1014" />
     </state>
     <state x="563" y="166" key="SettingsEditor/0.25.1792.1014@0.25.1792.1014" timestamp="1598209760867" />
-    <state x="787" y="267" key="Vcs.Push.Dialog.v2" timestamp="1598233294711">
+    <state x="787" y="267" key="Vcs.Push.Dialog.v2" timestamp="1598236706138">
       <screen x="0" y="25" width="1792" height="1010" />
     </state>
-    <state x="787" y="267" key="Vcs.Push.Dialog.v2/0.25.1792.1010@0.25.1792.1010" timestamp="1598233294711" />
+    <state x="787" y="267" key="Vcs.Push.Dialog.v2/0.25.1792.1010@0.25.1792.1010" timestamp="1598236706138" />
   </component>
 </project>
