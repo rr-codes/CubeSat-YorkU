@@ -5,3 +5,16 @@
 .btn-group .btn {
     width: 50%;
 }
+
+.vertical-center {
+    min-width: 100vw; /* These two lines are counted as one :-)       */
+
+    display: flex;
+    align-items: center;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
